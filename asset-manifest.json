@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b92e36fb.chunk.css",
+    "main.js": "/static/js/main.d11ce91b.chunk.js",
+    "main.js.map": "/static/js/main.d11ce91b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.589a18eb.chunk.js": "/static/js/2.589a18eb.chunk.js",
+    "static/js/2.589a18eb.chunk.js.map": "/static/js/2.589a18eb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.05d7c291abdfd251c23415fe6392e66b.js": "/precache-manifest.05d7c291abdfd251c23415fe6392e66b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b92e36fb.chunk.css.map": "/static/css/main.b92e36fb.chunk.css.map",
+    "static/media/1679674459767.jpg": "/static/media/1679674459767.373a2221.jpg",
+    "static/media/Resume(MK).pdf": "/static/media/Resume(MK).8c7faf7e.pdf",
+    "static/media/aitam.jpeg": "/static/media/aitam.fe2ce6e3.jpeg",
+    "static/media/inter.jpeg": "/static/media/inter.9bfc3eb8.jpeg",
+    "static/media/school.png": "/static/media/school.2d89e9a6.png"
+  }
+}
